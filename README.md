@@ -1,1 +1,1 @@
-- [DEMO LINK](https://petlyura.github.io/goit-js-hw-10-food-service/)
+- [gh-page](https://petlyura.github.io/goit-js-hw-10-food-service/)
